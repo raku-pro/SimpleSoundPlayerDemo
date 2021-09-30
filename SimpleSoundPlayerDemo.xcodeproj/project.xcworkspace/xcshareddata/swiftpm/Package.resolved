@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SimpleSoundPlayer",
+        "repositoryURL": "https://github.com/raku-pro/SimpleSoundPlayer",
+        "state": {
+          "branch": null,
+          "revision": "9fd37cf4a02dbef355cd92524f353c8a237737c6",
+          "version": "1.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
