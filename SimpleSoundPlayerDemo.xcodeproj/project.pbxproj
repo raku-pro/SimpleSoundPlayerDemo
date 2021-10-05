@@ -379,7 +379,7 @@
 			isa = XCRemoteSwiftPackageReference;
 			repositoryURL = "https://github.com/raku-pro/SimpleSoundPlayer";
 			requirement = {
-				kind = upToNextMinorVersion;
+				kind = upToNextMajorVersion;
 				minimumVersion = 1.0.0;
 			};
 		};
